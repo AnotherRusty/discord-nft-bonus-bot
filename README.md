@@ -1,10 +1,12 @@
-# DiscordBot
+# Discord Reward Bot
 
-Step 1:
-To deploy your commands, use node deploy.js
-Step 2:
-To run your own bot, use npm start
+This repository contains resources about the discord bot that gives reward to the user who especially has a specific nfts.
 
-If there is a any problem, contact me.
+## Features
 
-discord account: truecolor#8510
+### 1. New Role Alloctaion
+- This Bot always track the users that has specific Degods nft and if the period of this nft owernship exceeds the expected time, automatically give a new role.
+
+### 2. Rewards in returns for NFT Owernship period
+
+- This Bot always track the users that has specific Degods nft and if the period of this nft owernship exceeds the expected time, automatically give bonus as tokens.
